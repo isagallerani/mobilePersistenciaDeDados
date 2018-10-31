@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="done">Done</string>
+    <string name="ocus_pocus">Ocus Pocus</string>
+    <string name="save">Save</string>
+    <string name="campo_obriatorio">Campo Obrigatorio</string>
+    <string name="add">ADD</string>
+</resources>
